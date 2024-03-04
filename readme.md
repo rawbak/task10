@@ -12,4 +12,4 @@ random.shuffle(lst)
 
 data = pd.DataFrame({'whoAmI':lst})
 
-data.head(20)
+data.head()
